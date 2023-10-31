@@ -1,6 +1,6 @@
 
 [Setup]
-AppId={{3E7ADF50-7AAF-42E6-99B9-D7E73311520A}
+AppId={{51A57131-4C67-4ADE-A263-AFDEB00B5878}
 AppName=Karbo Root Cert
 AppVersion=1.0
 UninstallDisplayName=Karbo Root Cert
