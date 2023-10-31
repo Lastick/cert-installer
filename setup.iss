@@ -2,8 +2,8 @@
 [Setup]
 AppId={{51A57131-4C67-4ADE-A263-AFDEB00B5878}
 AppName=Karbo Root Cert
-AppVersion=1.0
-VersionInfoVersion=1.0.0.0
+AppVersion=1.1
+VersionInfoVersion=1.1.0.0
 VersionInfoCopyright=Karbo Developers
 AppPublisher=Karbo Developers
 AppPublisherURL=https://www.karbo.io/
