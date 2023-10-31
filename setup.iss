@@ -3,7 +3,6 @@
 AppId={{51A57131-4C67-4ADE-A263-AFDEB00B5878}
 AppName=Karbo Root Cert
 AppVersion=1.0
-UninstallDisplayName=Karbo Root Cert
 VersionInfoVersion=1.0.0.0
 VersionInfoCopyright=Karbo Developers
 AppPublisher=Karbo Developers
@@ -18,6 +17,8 @@ OutputBaseFilename=karbo-cert-setup
 Compression=lzma
 SolidCompression=yes
 SetupIconFile=karbo.ico
+UninstallDisplayIcon={app}\unins000.exe
+UninstallDisplayName=Karbo Root Cert
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
